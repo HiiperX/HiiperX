@@ -4,7 +4,7 @@
 - 📫 How to reach me: You can find me in my **Discord** hyperx
 - 🤔 My GitHub stats:
 
-![themanelpj](https://komarev.com/ghpvc/?username=themanelpj)
+![HiiperX](https://komarev.com/ghpvc/?username=HiiperX)
 
 <div align="center">
 
