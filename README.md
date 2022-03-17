@@ -2,7 +2,6 @@
 - 🔭 I’m currently coding lua, css, html
 - 🌱 I’m currently learning js
 - 📫 How to reach me: You can find me in my **Discord** hyperx
-- 😄 Pronouns: themanelpj
 - 🤔 My GitHub stats:
 
 ![themanelpj](https://komarev.com/ghpvc/?username=themanelpj)
@@ -13,13 +12,10 @@
 
 ![themanelpj](https://github-readme-stats.vercel.app/api?username=themanelpj&show_icons=true&theme=tokyonight&hide=["issues"])
 
-  <h1>JAIPAAH</h1>
+  <h1>Hiiperx</h1>
 
-![themanelpj](https://github-readme-stats.vercel.app/api/top-langs?username=HiiperX&show_icons=true&theme=tokyonight&layout=compact)
+![hiiperx](https://github-readme-stats.vercel.app/api/top-langs?username=HiiperX&show_icons=true&theme=tokyonight&layout=compact)
   
-  <h1>MANEH</h1>
-  
-![themanelpj](https://github-readme-stats.vercel.app/api/top-langs?username=themanelpj&show_icons=true&theme=tokyonight&layout=compact)
 <!---
 themanelpj/themanelpj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
