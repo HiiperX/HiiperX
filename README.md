@@ -10,7 +10,7 @@
 
 ## Github Stats
 
-![themanelpj](https://github-readme-stats.vercel.app/api?username=themanelpj&show_icons=true&theme=tokyonight&hide=["issues"])
+![HiiperX](https://github-readme-stats.vercel.app/api?username=HiiperX&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ### Most Lenguages used:
 
